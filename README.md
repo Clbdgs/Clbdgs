@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### 😄关于我
+  
+  - 我是不打怪兽
+  - 我的博客（刚搭建）(http://www.clbdgs.xyz/)
 <!--
 **Clbdgs/Clbdgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
