@@ -3,7 +3,7 @@
 ### 😄关于我
   
   - 我是不打怪兽
-  - 我的博客（喜欢调接口，刚用vue+koa搭建，欢迎项目给星哦，hotpoint）(http://www.clbdgs.xyz/)
+  - 我的博客（喜欢调接口，用vue+koa搭建，欢迎项目给星哦，hotpoint）(http://www.clbdgs.xyz/)
 <!--
 **Clbdgs/Clbdgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
